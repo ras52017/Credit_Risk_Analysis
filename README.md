@@ -12,8 +12,16 @@ Predicting Credit Risks using RandomOverSample, SMOTE, SMOTEEN,  ClusterCentroid
 
 ### RandomOverSample
 
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/review_id_df.jpg)
+
 ### SMOTE
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/review_id_df.jpg)
 
 ### ClusterCentroids
 
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/review_id_df.jpg)
+
 ### SMOTEEN
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/review_id_df.jpg)
