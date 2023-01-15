@@ -25,3 +25,11 @@ Predicting Credit Risks using RandomOverSample, SMOTE, SMOTEEN,  ClusterCentroid
 ### SMOTEEN
 
 ![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/SMOTEENN.jpg)
+
+### Balanced Random Forest Classifier
+
+![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/SMOTEENN.jpg)
+
+### Easy Ensemble AdaBoost Classifier
+
+![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/SMOTEENN.jpg)
