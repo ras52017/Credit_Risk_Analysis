@@ -28,8 +28,14 @@ Predicting Credit Risks using RandomOverSample, SMOTE, SMOTEEN,  ClusterCentroid
 
 ### Balanced Random Forest Classifier
 
-![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/SMOTEENN.jpg)
+![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/Balanced%20Random%20Forest%20Classifier.jpg)
 
 ### Easy Ensemble AdaBoost Classifier
 
-![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/SMOTEENN.jpg)
+![image](https://github.com/ras52017/Credit_Risk_Analysis/blob/main/images/Easy%20Ensemble%20AdaBoost%20Classifier.jpg)
+
+## Summary & Recommendations
+
+The resulst of the varioys models are quiet similar in predicting the credit risks as seen in the above diagrams of the various models.
+The Easy Ensemble AdaBoost Classifier provided the highest risk loans and will recommend it.
+
